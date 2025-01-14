@@ -1,0 +1,23 @@
+.banner{
+    background-image: url(../assets/project0.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.banner a{
+
+    color: #373A40;
+}
+h1 {
+    color: #373A40;
+}
+
+.a {
+    background-color: #F95454;
+}
+.b {
+    background-color: #8FD14F;
+}
+.c {
+    background-color: #604CC3;
+}

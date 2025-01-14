@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Pixelify Sans';
+  src: url(./PixelifySans.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+.App {
+  text-align: center;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+html, body {
+  scroll-behavior: smooth;
+  -ms-overflow-style: none;
+  scrollbar-width: none; 
+}
