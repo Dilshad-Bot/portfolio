@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4d640f1e.css",
+    "main.js": "/portfolio/static/js/main.caeca999.js",
+    "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
+    "static/media/GreenFair.png": "/portfolio/static/media/GreenFair.be908503b54fe36e3d4b.png",
+    "static/media/Omnifood.png": "/portfolio/static/media/Omnifood.d85c993a674f31fc100a.png",
+    "static/media/Buildx.png": "/portfolio/static/media/Buildx.30eadc96288fb70c61ca.png",
+    "static/media/game.png": "/portfolio/static/media/game.a69b78b8b052a3c11daa.png",
+    "static/media/SStech.png": "/portfolio/static/media/SStech.99600b127b3c2d71c1b3.png",
+    "static/media/project1.png": "/portfolio/static/media/project1.836128b82995d6690052.png",
+    "static/media/project0.png": "/portfolio/static/media/project0.b9321c220b6b598502a9.png",
+    "static/media/StartEx.png": "/portfolio/static/media/StartEx.2deed7fffad994c04e34.png",
+    "static/media/banner1.png": "/portfolio/static/media/banner1.ccc4cb87d6c17c86c692.png",
+    "static/media/Logo2.png": "/portfolio/static/media/Logo2.b4ab9b4cd70492a7f283.png",
+    "index.html": "/portfolio/index.html",
+    "static/media/bot.riv": "/portfolio/static/media/bot.dc392d2108a82d693016.riv",
+    "main.4d640f1e.css.map": "/portfolio/static/css/main.4d640f1e.css.map",
+    "main.caeca999.js.map": "/portfolio/static/js/main.caeca999.js.map",
+    "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d640f1e.css",
+    "static/js/main.caeca999.js"
+  ]
+}
