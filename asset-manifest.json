@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4d640f1e.css",
-    "main.js": "/portfolio/static/js/main.caeca999.js",
+    "main.js": "/portfolio/static/js/main.9689073f.js",
     "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
     "static/media/GreenFair.png": "/portfolio/static/media/GreenFair.be908503b54fe36e3d4b.png",
     "static/media/Omnifood.png": "/portfolio/static/media/Omnifood.d85c993a674f31fc100a.png",
@@ -16,11 +16,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/bot.riv": "/portfolio/static/media/bot.dc392d2108a82d693016.riv",
     "main.4d640f1e.css.map": "/portfolio/static/css/main.4d640f1e.css.map",
-    "main.caeca999.js.map": "/portfolio/static/js/main.caeca999.js.map",
+    "main.9689073f.js.map": "/portfolio/static/js/main.9689073f.js.map",
     "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d640f1e.css",
-    "static/js/main.caeca999.js"
+    "static/js/main.9689073f.js"
   ]
 }
