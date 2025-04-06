@@ -43,17 +43,17 @@ export default function Portfolio() {
             <div className="border rounded-lg p-5 shadow-sm hover:shadow-lg transition">
               <h4 className="text-xl font-bold">Buildx</h4>
               <img className='my-3 rounded-lg' src={buildx} alt='Buildx'/>
-              <a href="https://dilshad-bot.github.io/buildx/" className="text-blue-500 mt-4 inline-block">View Project</a>
+              <a href="https://dilshad-bot.github.io/Buildx" className="text-blue-500 mt-4 inline-block">View Project</a>
             </div>
             <div className="border rounded-lg p-5 shadow-sm hover:shadow-lg transition">
               <h4 className="text-xl font-bold">Greenfair</h4>
               <img className='my-3 rounded-lg' src={greenfair} alt='Greenfair'/>
-              <a href="https://dilshad-bot.github.io/greenfair/" className="text-blue-500 mt-4 inline-block">View Project</a>
+              <a href="https://dilshad-bot.github.io/Greenfair" className="text-blue-500 mt-4 inline-block">View Project</a>
             </div>
             <div className="border rounded-lg p-5 shadow-sm hover:shadow-lg transition">
               <h4 className="text-xl font-bold">SSTech</h4>
               <img className='my-3 rounded-lg' src={sstech} alt='SSTech'/>
-              <a href="https://dilshad-bot.github.io/SSTech/" className="text-blue-500 mt-4 inline-block">View Project</a>
+              <a href="https://dilshad-bot.github.io/sstech/" className="text-blue-500 mt-4 inline-block">View Project</a>
             </div>
             <div className="border rounded-lg p-5 shadow-sm hover:shadow-lg transition">
               <h4 className="text-xl font-bold">StartEx</h4>
